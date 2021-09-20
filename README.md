@@ -1,3 +1,6 @@
+# Poke Api Search React App
+Proyecto de React - La Guía Completa: Hooks Context Redux MERN +15 Apps de Udemy
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
