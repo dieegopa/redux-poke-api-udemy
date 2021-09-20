@@ -1,5 +1,5 @@
 # Poke Api Search React App
-Proyecto de React - La Guía Completa: Hooks Context Redux MERN +15 Apps de Udemy
+Proyecto de React JS Desde Cero! Hooks, Redux, Context, Firebase de Udemy
 
 # Getting Started with Create React App
 
